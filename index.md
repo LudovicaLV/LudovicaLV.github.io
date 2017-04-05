@@ -25,6 +25,13 @@ Case study: Emergency evacuation route<br />
 
 #### MELA models
 
+Case study: Defining safety zones <br />
+[MELA model without control](https://ludovicalv.github.io/MELA1/)<br />
+[MELA model with control](https://ludovicalv.github.io/MELA1C/)<br />
+
+Case study: Emergency evacuation route<br />
+[MELA model safe exit](https://ludovicalv.github.io/MELA2/)<br />
+
 
 ---
 
