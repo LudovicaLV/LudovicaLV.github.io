@@ -9,7 +9,7 @@ Ludovica Luisa Vissat,  Michele Loreti, Laura Nenzi, Jane Hillston, Glenn Marion
 
 ---
 ### Three-Valued Spatio-Temporal (TSTL) properties verification
-We provide the spatio-temporal evolution of TSTL properties presented in the paper. <br />
+We provide the spatio-temporal evolution of TSTL properties related with the case studies presented in the paper. <br />
 
 Case study: Defining safety zones<br />
 [Safe zone without control](https://drive.google.com/open?id=0B6Jk3sy4LnqwVHBBajBoQ0JQZTQ) <br />
@@ -18,7 +18,7 @@ Case study: Defining safety zones<br />
 
 Case study: Emergency evacuation route<br />
 [Safe exit](https://drive.google.com/open?id=0B6Jk3sy4LnqwanFRMXU4bmVTTVE)<br />
-[Fire spread](https://drive.google.com/open?id=0B6Jk3sy4LnqwMnppWEc2YjJaeEU): additional TSTL property 
+[Fire spread](https://drive.google.com/open?id=0B6Jk3sy4LnqwMnppWEc2YjJaeEU): TSTL property 
 <img src="http://latex.codecogs.com/gif.latex?\psi:=\mathcal{P}_{>0.2}(B>0)" border="0">  <br />
 
 ### MELA models
