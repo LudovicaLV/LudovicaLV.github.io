@@ -30,7 +30,6 @@ Case study: Defining safety zones <br />
 
 Case study: Emergency evacuation route<br />
 [MELA model safe exit](https://ludovicalv.github.io/MELA2/)<br />
-<embed src="https://www.youtube.com/v/F9Bo89m2f6g&hl=en&fs=1" allowfullscreen="true" width="425" height="344">
 
 
 
