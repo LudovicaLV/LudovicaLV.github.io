@@ -13,6 +13,7 @@ We want to provide the spatio-temporal evolution of the TSTL properties presente
 
 Case study: Defining safety zones<br />
 [Safe zone without control](https://drive.google.com/open?id=0B6Jk3sy4LnqwVHBBajBoQ0JQZTQ) <br />
+<video src="Model1.1_SafeZone.mov" width="320" height="200" controls preload></video>
 [Safe zones with control](https://drive.google.com/open?id=0B6Jk3sy4LnqwdmJxa2ExdWc1SE0) <br />
 [High risk zones](https://drive.google.com/open?id=0B6Jk3sy4LnqwWmFJTzhESGdnNGs) <br />
 
