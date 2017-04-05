@@ -12,14 +12,14 @@ We want to provide the spatio-temporal evolution of the TSTL properties presente
 
 ## TSTL properties verification
 
-Case study: Defining safety zones
-[Safe zone without control](https://drive.google.com/open?id=0B6Jk3sy4LnqwVHBBajBoQ0JQZTQ)
-[Safe zones with control](https://drive.google.com/open?id=0B6Jk3sy4LnqwdmJxa2ExdWc1SE0) 
-[High risk zones](https://drive.google.com/open?id=0B6Jk3sy4LnqwWmFJTzhESGdnNGs) 
+Case study: Defining safety zones<br />
+[Safe zone without control](https://drive.google.com/open?id=0B6Jk3sy4LnqwVHBBajBoQ0JQZTQ) <br />
+[Safe zones with control](https://drive.google.com/open?id=0B6Jk3sy4LnqwdmJxa2ExdWc1SE0) <br />
+[High risk zones](https://drive.google.com/open?id=0B6Jk3sy4LnqwWmFJTzhESGdnNGs) <br />
 
-Case study: Emergency evacuation route
-[Safe exit](https://drive.google.com/open?id=0B6Jk3sy4LnqwanFRMXU4bmVTTVE)
-[Fire spread](https://drive.google.com/open?id=0B6Jk3sy4LnqwMnppWEc2YjJaeEU)
+Case study: Emergency evacuation route<br />
+[Safe exit](https://drive.google.com/open?id=0B6Jk3sy4LnqwanFRMXU4bmVTTVE)<br />
+[Fire spread](https://drive.google.com/open?id=0B6Jk3sy4LnqwMnppWEc2YjJaeEU)<br />
 
 ---
 
