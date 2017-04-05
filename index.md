@@ -1,9 +1,6 @@
 ---
 layout: default
-title: Supplementary material of the paper: 
-Three-Valued Spatio-Temporal Logic a further analysis on spatio-temporal properties of stochastic systems
-Ludovica Luisa Vissat,  Michele Loreti, Laura Nenzi, Jane Hillston, Glenn Marion
-(Submitted to QEST 2017) 
+title: Supplementary material
 ---
 
 ## Supplementary material of the paper: <br />
