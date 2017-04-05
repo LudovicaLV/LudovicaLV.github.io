@@ -6,8 +6,7 @@ Ludovica Luisa Vissat,  Michele Loreti, Laura Nenzi, Jane Hillston, Glenn Marion
 ---
 
 ## Supplementary material of the paper: Three-Valued Spatio-Temporal Logic a further analysis on spatio-temporal properties of stochastic systems <br />
-Ludovica Luisa Vissat,  Michele Loreti, Laura Nenzi, Jane Hillston, Glenn Marion<br />
-(Submitted to QEST 2017) 
+Ludovica Luisa Vissat,  Michele Loreti, Laura Nenzi, Jane Hillston, Glenn Marion (Submitted to QEST 2017) 
 
 ---
 ### Three-Valued Spatio-Temporal (TSTL) properties verification
