@@ -2,93 +2,14 @@
 	<html>
 		<head>
 			<title>{{ page.title }}</title>
-			<meta name="description" content="Variational Inference">
-			<meta name="keywords" content="variational,inference,machine,learning,inference,deep,neural">
-			<meta name="author" content="Akash Srivastava">
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-			
-			<!-- Load jQuery -->
-			<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-			<!-- Load KaTeX -->
-			<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.6.0/katex.min.css">
-			<script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.6.0/katex.min.js"></script>
-			<script>
-			  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-			  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-			  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-			  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-			  ga('create', 'UA-87695573-1', 'auto');
-			  ga('send', 'pageview');
-
-			</script>
 		</head>
 		<body>
 			<nav>
 	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/research">Research</a></li>
-	        		<li><a href="/research-cv.pdf">CV</a></li>
-				<li><a href="https://uk.linkedin.com/in/akash-srivastava-aa97361b">LinkedIn</a></li>
-	        		<li><a href="/blog">Notes</a></li>
-				<li><a href="/Neural-Variational-Inference">Approximate Inference</a></li>
 	    		</ul>
 			</nav>
 			<div class="container">
 			
 			{{ content }}
 			
-			</div><!-- /.container -->
-			
-			
-			
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:akash.srivastava@me.com">email</a></li>
-	        		<li><a href="https://github.com/akashgit">github.com/akashgit</a></li>
-				<li><a href="https://twitter.com/akash_sheffield">twitter</a></li>
-				</ul>
-			</footer>
-			
-			{% if page.comments %}
-				<div id="disqus_thread"></div>
-					<script>
-						/**
-						*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-						*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-						/*
-						var disqus_config = function () {
-						this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-						this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-						};
-						*/
-						(function() { // DON'T EDIT BELOW THIS LINE
-						var d = document, s = d.createElement('script');
-						s.src = '//akashgit-github-io.disqus.com/embed.js';
-						s.setAttribute('data-timestamp', +new Date());
-						(d.head || d.body).appendChild(s);
-						})();
-					</script>
-					<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-			{% endif %}
-			
-		</body>
-		<script>
-			$("script[type='math/tex']").replaceWith(
-			  function(){
-			    var tex = $(this).text();
-			    return "<span class=\"inline-equation\">" + 
-			           katex.renderToString(tex) +
-			           "</span>";
-			});
-			
-			$("script[type='math/tex; mode=display']").replaceWith(
-			  function(){
-			    var tex = $(this).text();
-			    return "<div class=\"equation\">" + 
-			           katex.renderToString("\\displaystyle "+tex) +
-			           "</div>";
-			});
-		</script>
-	</html>
+	<html>
