@@ -20,7 +20,7 @@ Case study: Defining safety zones<br />
 
 Case study: Emergency evacuation route<br />
 [Safe exit](https://drive.google.com/open?id=0B6Jk3sy4LnqwanFRMXU4bmVTTVE)<br />
-[Fire spread](https://drive.google.com/open?id=0B6Jk3sy4LnqwMnppWEc2YjJaeEU)<br />
+[Fire spread](https://drive.google.com/open?id=0B6Jk3sy4LnqwMnppWEc2YjJaeEU) (additional TSTL property $\psi:=\mathcal{P}_{>0.2}(B>0)$)<br />
 
 ### MELA models
 We present the [MELA](https://arxiv.org/abs/1610.08171) models we used to perform stochastic simulations.<br />
