@@ -32,7 +32,7 @@ Case study: Emergency evacuation route<br />
 [MELA model safe exit](https://ludovicalv.github.io/MELA2/)<br />
 
 
-<embed src="Model1_1.mp4" autostart="true" height="30" width="144" />
+<embed src="Model1.2_Everywhere.mov" autostart="false" height="30" width="144" />
 
 
 
