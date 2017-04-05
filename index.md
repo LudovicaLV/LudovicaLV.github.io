@@ -10,12 +10,8 @@ Ludovica Luisa Vissat,  Michele Loreti, Laura Nenzi, Jane Hillston, Glenn Marion
 (Submitted to QEST 2017) 
 
 ---
-
-##  Supplementary Material
-We want to provide the spatio-temporal evolution of the TSTL properties presented in the paper and the MELA models we used to perform stochastic simulations.<br />
-
-
 ### TSTL properties verification
+We provide the spatio-temporal evolution of the TSTL properties presented in the paper. <br />
 
 Case study: Defining safety zones<br />
 [Safe zone without control](https://drive.google.com/open?id=0B6Jk3sy4LnqwVHBBajBoQ0JQZTQ) <br />
@@ -27,6 +23,7 @@ Case study: Emergency evacuation route<br />
 [Fire spread](https://drive.google.com/open?id=0B6Jk3sy4LnqwMnppWEc2YjJaeEU)<br />
 
 ### MELA models
+We present the MELA models we used to perform stochastic simulations.<br />
 
 Case study: Defining safety zones <br />
 [MELA model without control](https://ludovicalv.github.io/MELA1/)<br />
