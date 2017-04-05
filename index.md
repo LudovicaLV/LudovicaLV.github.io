@@ -20,7 +20,7 @@ Case study: Emergency evacuation route<br />
 [Safe exit](https://drive.google.com/open?id=0B6Jk3sy4LnqwanFRMXU4bmVTTVE) 
 <img src="http://latex.codecogs.com/gif.latex?\psi_{safe}" border="0"> <br />
 [Fire spread](https://drive.google.com/open?id=0B6Jk3sy4LnqwMnppWEc2YjJaeEU) 
-<img src="http://latex.codecogs.com/gif.latex?\psi_{fire}:=\mathcal{P}_{>0.2}(\varphi_{fire})" border="0"> <br />
+<img src="http://latex.codecogs.com/gif.latex?\tilde{\neg}\;\psi_{fire}" border="0"> <br />
 
 ### MELA models
 We present the [MELA](https://arxiv.org/abs/1610.08171) models we used to perform stochastic simulations.<br />
