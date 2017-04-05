@@ -12,17 +12,15 @@ Ludovica Luisa Vissat,  Michele Loreti, Laura Nenzi, Jane Hillston, Glenn Marion
 We provide the spatio-temporal evolution of TSTL properties related with the case studies presented in the paper. <br />
 
 Case study: Defining safety zones<br />
-<img src="http://latex.codecogs.com/gif.latex?\psi_{risk}:=\overset{\sim}{\underset{}{\boxbox}}_{[1,1]}\psi_{fire10}" border="0"> 
-[High risk zones](https://drive.google.com/open?id=0B6Jk3sy4LnqwWmFJTzhESGdnNGs) <br />
-<img src="http://latex.codecogs.com/gif.latex?\psi_{area}:=\psi_{pos}\overset{\sim}{\underset{}{\wedge}}\psi_{safe}" border="0"> 
-[Safe zone without control](https://drive.google.com/open?id=0B6Jk3sy4LnqwVHBBajBoQ0JQZTQ) <br />
-[Safe zones with control](https://drive.google.com/open?id=0B6Jk3sy4LnqwdmJxa2ExdWc1SE0) <br />
+[High risk zones](https://drive.google.com/open?id=0B6Jk3sy4LnqwWmFJTzhESGdnNGs) <img src="http://latex.codecogs.com/gif.latex?\psi_{risk}" border="0"> <br />
+[Safe zone without control](https://drive.google.com/open?id=0B6Jk3sy4LnqwVHBBajBoQ0JQZTQ) <img src="http://latex.codecogs.com/svg.latex?\psi_{area}" border="0">  <br />
+[Safe zones with control](https://drive.google.com/open?id=0B6Jk3sy4LnqwdmJxa2ExdWc1SE0) <img src="http://latex.codecogs.com/svg.latex?\psi_{area}" border="0">  <br />
 
 Case study: Emergency evacuation route<br />
-<img src="http://latex.codecogs.com/gif.latex?\psi_{safe}:=\psi_{occ}\overset{\sim}{\underset{}{\wedge}}\psi_{fire} " border="0"> 
-[Safe exit](https://drive.google.com/open?id=0B6Jk3sy4LnqwanFRMXU4bmVTTVE)<br />
-<img src="http://latex.codecogs.com/gif.latex?\psi_{fire}:=\mathcal{P}_{>0.2}(\varphi_{fire})" border="0"> 
-[Fire spread](https://drive.google.com/open?id=0B6Jk3sy4LnqwMnppWEc2YjJaeEU) <br />
+[Safe exit](https://drive.google.com/open?id=0B6Jk3sy4LnqwanFRMXU4bmVTTVE) 
+<img src="http://latex.codecogs.com/gif.latex?\psi_{safe}" border="0"> <br />
+[Fire spread](https://drive.google.com/open?id=0B6Jk3sy4LnqwMnppWEc2YjJaeEU) 
+<img src="http://latex.codecogs.com/gif.latex?\psi_{fire}:=\mathcal{P}_{>0.2}(\varphi_{fire})" border="0"> <br />
 
 ### MELA models
 We present the [MELA](https://arxiv.org/abs/1610.08171) models we used to perform stochastic simulations.<br />
