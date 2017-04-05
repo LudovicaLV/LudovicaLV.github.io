@@ -31,11 +31,8 @@ Case study: Defining safety zones <br />
 Case study: Emergency evacuation route<br />
 [MELA model safe exit](https://ludovicalv.github.io/MELA2/)<br />
 
-<video width="320" height="240" controls>
-  <source src="Model1_1.mp4" type="video/mp4">
-  <source src="Model1_1.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
+
+<embed src="Model1_1.mp4" autostart="false" height="30" width="144" />
 
 
 
