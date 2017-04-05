@@ -11,7 +11,8 @@ Ludovica Luisa Vissat,  Michele Loreti, Laura Nenzi, Jane Hillston, Glenn Marion
 Ludovica Luisa Vissat,  Michele Loreti, Laura Nenzi, Jane Hillston, Glenn Marion (Submitted to QEST 2017) 
 
 ---
-We provide the spatio-temporal evolution of the Three-Valued Spatio-Temporal (TSTL) properties presented in the paper. <br />
+### Three-Valued Spatio-Temporal (TSTL) properties verification
+We provide the spatio-temporal evolution of TSTL properties presented in the paper. <br />
 
 Case study: Defining safety zones<br />
 [Safe zone without control](https://drive.google.com/open?id=0B6Jk3sy4LnqwVHBBajBoQ0JQZTQ) <br />
@@ -23,6 +24,7 @@ Case study: Emergency evacuation route<br />
 [Fire spread](https://drive.google.com/open?id=0B6Jk3sy4LnqwMnppWEc2YjJaeEU): additional TSTL property 
 <img src="http://latex.codecogs.com/gif.latex?\psi:=\mathcal{P}_{>0.2}(B>0)" border="0">  <br />
 
+### MELA models
 We present the [MELA](https://arxiv.org/abs/1610.08171) models we used to perform stochastic simulations.<br />
 
 Case study: Defining safety zones <br />
