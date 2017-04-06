@@ -1,5 +1,5 @@
 <font size="-1">
-Model description: the agent D represents the danger zone (road) that can set on fire the neighbouring locations, that have high probability (H) to catch fire. THe burning locations (B) can set on fire the neighbouring ones, that can be part of the forest (T) or of the area of interest (P). The safe area (S) will never catch fire.<br />
+Model description: the agent D represents the danger zone (road) that can set on fire the neighbouring locations, that have high probability (H) to catch fire. THe burning locations (B) can set on fire the neighbouring ones, that can be part of the forest (T) or of the area of interest (P). The safe area (S) will never catch fire. In the initial condition we find D and H agents in central lines, area of interest (P) and safe area (S) in specific part of the grid while the rest of the grid is occupied by forest (T).  <br />
 <div class="boxed">
 #Space: TwoD(25,25)<br />
 <br />
