@@ -18,15 +18,15 @@ We provide the spatio-temporal evolution of TSTL properties related with the cas
   </tr>
   <tr>
     <td> <img src="http://latex.codecogs.com/svg.latex?\psi_{risk}" border="0"> </td>
-    <td> [High risk zones](https://drive.google.com/open?id=0B6Jk3sy4LnqwWmFJTzhESGdnNGs)</td> 
+    <td> <a href="https://drive.google.com/open?id=0B6Jk3sy4LnqwWmFJTzhESGdnNGs">High risk zones</a>  </td> 
   </tr>
  <tr>
-    <td> <img src="http://latex.codecogs.com/svg.latex?\psi_{area}" border="0"> </td>
-    <td> [Safe zone without control](https://drive.google.com/open?id=0B6Jk3sy4LnqwVHBBajBoQ0JQZTQ) </td> 
+    <td> <img src="http://latex.codecogs.com/svg.latex?\mathcal{P}_{<0.2}(B>0)\tilde{\wedge}\mathcal{P}_{>0.01}(\varphi)" border="0"> </td>
+    <td> <a href="https://drive.google.com/open?id=0B6Jk3sy4LnqwVHBBajBoQ0JQZTQ"> Safe zone without control </a> </td> 
   </tr>
   <tr>
     <td> <img src="http://latex.codecogs.com/svg.latex?\psi_{area}" border="0"> </td>
-    <td> [Safe zones with control](https://drive.google.com/open?id=0B6Jk3sy4LnqwdmJxa2ExdWc1SE0) </td> 
+    <td> <a href="https://drive.google.com/open?id=0B6Jk3sy4LnqwdmJxa2ExdWc1SE0"> Safe zones with control </a> </td> 
   </tr>
   
 </table>
