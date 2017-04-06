@@ -21,7 +21,7 @@ pT= 1.0;<br />
 ac= 2.0;<br />
 pc= 1.0;<br />
  <br />
-#Agents
+#Agents <br />
 D(l) := ->{N(1)}(fireD, fD).D(l);<br />
 B(l) := ->{N(1)}(fireBH,fBH).B(l) + ->{N(1)}(fireBT,fBT).B(l) + ->{N(1)}(fireBL,fBL).B(l) +  ->{N(2)}(actControl,ac).B(l) + ->{N(1)}(fireBP,fBP).B(l) + ->{N(1)}(fireBPA,fBPA).B(l);<br />
 EX(l) := ;<br />
