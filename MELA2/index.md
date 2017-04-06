@@ -1,5 +1,5 @@
 <font size="-1">
-Model description: in this model we model the presence of agents in the evacuation routes, starting from the centre of the grid, and the fire spread. THe evacuation route can be empty (EM), occupied (O, OS, ON, SS, NN) or passed (P), that indicates a location that has been occupied and it is empty again. We use different agents to describe the presence of the agents to deal with the routes fork. We have the safe zones (S) in the corners and all the rest of the grid is occupied by inflammable agents (I), with just one initial location on fire (B). 
+Model description: in this model we model the presence of agents in the evacuation routes, starting from the centre of the grid, and the fire spread. The evacuation route can be empty (EM), occupied (O, OS, ON, SS, NN) or passed (P), that indicates a location that has been occupied and it is empty again. We use different agents to describe the presence of the agents to deal with the routes fork. We have the safe zones (S) in the corners and all the rest of the grid is occupied by inflammable agents (I), with just one initial location on fire (B). 
 <br />
 #Space: TwoD(25,25)<br />
 <br />
