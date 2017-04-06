@@ -1,4 +1,5 @@
 <font size="-1">
+Model description: the agent D represents the danger zone (road) that can set on fire the neighbouring locations, that have high probability (H) to catch fire. THe burning locations (B) can set on fire the neighbouring ones, that can be part of the forest (T) or of the area of interest (P). The safe area (S) will never catch fire. When the sensors (WS) will detect a fire close by, the area of interest will activate (PA) the control measure, reducing the probability of the neighbouring zone to catch fire (L). <br />
 #Space: TwoD(25,25)<br />
 <br />
 #Parameters<br />
@@ -24,13 +25,12 @@ pc= 1.0;<br />
 #Agents <br />
 D(l) := ->{N(1)}(fireD, fD).D(l);<br />
 B(l) := ->{N(1)}(fireBH,fBH).B(l) + ->{N(1)}(fireBT,fBT).B(l) + ->{N(1)}(fireBL,fBL).B(l) +  ->{N(2)}(actControl,ac).B(l) + ->{N(1)}(fireBP,fBP).B(l) + ->{N(1)}(fireBPA,fBPA).B(l);<br />
-EX(l) := ;<br />
-S(l) := ;<br />
 H(l) := <-(fireD,pD).B(l) +  <-(fireBH,pBH).B(l) +  <-(controlH,pH).L(l);<br />
 T(l) := <-(fireBT,pBT).B(l) + <-(controlT,pT).L(l);<br />
 L(l) := <-(fireBL,pBL).B(l);<br />
 P(l) := <-(fireBP,pBP).B(l);<br />
 PA(l) := ->{N(3)}(controlH,cH).PA(l) + ->{N(3)}(controlT,cT).PA(l) + <-(fireBPA,pBPA).B(l);<br />
+S(l) := ;<br />
 WS(l) := <-(actControl,pc).PA(l);<br />
  <br />
 #Initial conditions<br />
