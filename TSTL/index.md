@@ -14,7 +14,7 @@ Case study: Defining safety zones<br />
 Case study: Emergency evacuation route<br />
 [Safe exit (r=2.0)](https://drive.google.com/open?id=0B6Jk3sy4LnqwM3RsOTI4QndHaDg) 
 <img src="http://latex.codecogs.com/svg.latex?\psi_{safe}" border="0"> <br />
-[Safe exit (r=4.0)](https://drive.google.com/open?id=0B6Jk3sy4LnqwdzBLcXZka050Z1U) 
+[Safe exit (r=4.0)](https://drive.google.com/open?id=0B6Jk3sy4LnqwZ254NFF3d1U2VTg) 
 <img src="http://latex.codecogs.com/svg.latex?\psi_{safe}" border="0"> <br />
 [Fire spread](https://drive.google.com/open?id=0B6Jk3sy4LnqwMnppWEc2YjJaeEU) 
 <img src="http://latex.codecogs.com/svg.latex?\tilde{\neg}\;\psi_{fire}" border="0"> <br />
