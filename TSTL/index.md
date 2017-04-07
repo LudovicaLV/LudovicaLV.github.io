@@ -12,7 +12,9 @@ Case study: Defining safety zones<br />
 [Safe zones with control](https://drive.google.com/open?id=0B6Jk3sy4LnqwLWFSZ21fYk1RdTg) <img src="http://latex.codecogs.com/svg.latex?\psi_{area}" border="0">  <br />
 
 Case study: Emergency evacuation route<br />
-[Safe exit](https://drive.google.com/open?id=0B6Jk3sy4LnqwM3RsOTI4QndHaDg) 
+[Safe exit (r=2.0)](https://drive.google.com/open?id=0B6Jk3sy4LnqwM3RsOTI4QndHaDg) 
+<img src="http://latex.codecogs.com/svg.latex?\psi_{safe}" border="0"> <br />
+[Safe exit (r=4.0)](https://drive.google.com/open?id=0B6Jk3sy4LnqwdzBLcXZka050Z1U) 
 <img src="http://latex.codecogs.com/svg.latex?\psi_{safe}" border="0"> <br />
 [Fire spread](https://drive.google.com/open?id=0B6Jk3sy4LnqwMnppWEc2YjJaeEU) 
 <img src="http://latex.codecogs.com/svg.latex?\tilde{\neg}\;\psi_{fire}" border="0"> <br />
