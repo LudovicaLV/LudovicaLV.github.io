@@ -25,3 +25,7 @@ Case study: Defining safety zones <br />
 
 Case study: Emergency evacuation route<br />
 [MELA model safe exit](https://ludovicalv.github.io/MELA2/)<br />
+
+### jSSTL: java Signal Spatio Temporal Logic
+[jSSTL](http://quanticol.sourceforge.net/?page_id=90)<br />  is a Java tool for the specification and verification of SSTL.
+
