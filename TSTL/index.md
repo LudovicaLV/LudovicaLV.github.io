@@ -1,7 +1,7 @@
 
 ## Supplementary material of the paper: <br />
 ## Three-Valued Spatio-Temporal Logic a further analysis on spatio-temporal properties of stochastic systems <br />
-[Ludovica Luisa Vissat](http://homepages.inf.ed.ac.uk/s1372511/), [Michele Loreti](http://www.micheleloreti.com/), [Laura Nenzi](https://www.imtlucca.it/laura.nenzi), [Jane Hillston](	http://homepages.inf.ed.ac.uk/jeh), [Glenn Marion](	http://www.bioss.ac.uk/people/glenn.html) (Submitted to [QEST 2017](http://www.qest.org/qest2017/))
+[Ludovica Luisa Vissat](http://homepages.inf.ed.ac.uk/s1372511/), [Michele Loreti](http://www.micheleloreti.com/), [Laura Nenzi](https://www.imtlucca.it/laura.nenzi), [Jane Hillston](	http://homepages.inf.ed.ac.uk/jeh), [Glenn Marion](	http://www.bioss.ac.uk/people/glenn.html) ([QEST 2017](http://www.qest.org/qest2017/))
 
 ---
 ### Three-Valued Spatio-Temporal (TSTL) properties verification
