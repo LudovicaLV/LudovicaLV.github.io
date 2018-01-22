@@ -13,6 +13,6 @@ Case study: Emergency evacuation route<br />
 
 Case study: Anonymity network<br />
 [Basic Scenario](https://ludovicalv.github.io/Basic/)<br />
-[M0 5 time faster](https://ludovicalv.github.io/5Faster/)<br />
-[M0 10 time faster](https://ludovicalv.github.io/10Faster/)<br />
-[S0 50 initial messages](https://ludovicalv.github.io/50Initial/)<br />
+[Messages M0 move 5 time faster](https://ludovicalv.github.io/5Faster/)<br />
+[Messages M0 move 10 time faster](https://ludovicalv.github.io/10Faster/)<br />
+[Sender S0 has 50 initial messages](https://ludovicalv.github.io/50Initial/)<br />
