@@ -5,6 +5,13 @@
 
 [Ludovica Luisa Vissat](http://homepages.inf.ed.ac.uk/s1372511/), [Michele Loreti](http://www.micheleloreti.com/), [Laura Nenzi](https://www.imtlucca.it/laura.nenzi), [Jane Hillston](	http://homepages.inf.ed.ac.uk/jeh), [Glenn Marion](	http://www.bioss.ac.uk/people/glenn.html)
 
+### Three-Valued Spatio-Temporal (TSTL) properties verification
+We provide the spatio-temporal evolution of TSTL properties related with the case study on emergency evacuation route presented in the paper. <br />
+
+[Safe exit (r=2.0)](https://drive.google.com/open?id=0B6Jk3sy4LnqwM3RsOTI4QndHaDg)  <br />
+[Safe exit (r=4.0)](https://drive.google.com/open?id=0B6Jk3sy4LnqwZ254NFF3d1U2VTg)  <br />
+[Fire spread](https://drive.google.com/open?id=0B6Jk3sy4LnqwMnppWEc2YjJaeEU)  <br />
+
 ### MELA models
 We present the [MELA](https://arxiv.org/abs/1610.08171) models we used to perform stochastic simulations.<br />
 
