@@ -8,7 +8,8 @@ Authors: Ludovica Luisa Vissat, Michele Loreti, Laura Nenzi, Jane Hillston, Glen
 
 
 
-[Analysis of spatio-temporal properties of stochastic systems using TSTL] (https://ludovicalv.github.io/TOMACS/)<br />
+[Analysis of spatio-temporal properties of stochastic systems using TSTL] 
+(https://ludovicalv.github.io/TOMACS/)<br />
 Authors: Ludovica Luisa Vissat, Michele Loreti, Laura Nenzi, Jane Hillston, Glenn Marion
 
 
