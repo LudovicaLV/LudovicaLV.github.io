@@ -1,3 +1,5 @@
+Model description: in this model the rate of movement of messages M_0 is equal to 5.0, while all the other messages move with rate 1.0.
+
 #Space: TwoD(10,10) <br />
 
 #Parameters <br />
@@ -38,16 +40,16 @@ e_4 = 1.0; <br />
 pe_4 = 1.0;<br />
 
 #Agents <br />
-S_0:= (input_0,i_0).M_0(l); <br />
-S_1:= (input_1,i_1).M_1(l); <br />
-S_2:= (input_2,i_2).M_2(l); <br />
-S_3:= (input_3,i_3).M_3(l); <br />
-S_4:= (input_4,i_4).M_4(l); <br />
-M_0:= <-(move_0,pm_0).M_0(newl) + <-(moveC_0,pmC_0).M_0(newl) + <-(exit_0,pe_0)<<M_0(l); <br />
-M_1:= <-(move_1,pm_1).M_1(newl) + <-(moveC_1,pmC_1).M_1(newl) + <-(exit_1,pe_1)<<M_1(l); <br />
-M_2:= <-(move_2,pm_2).M_2(newl) + <-(moveC_2,pmC_2).M_2(newl) + <-(exit_2,pe_2)<<M_2(l); <br />
-M_3:= <-(move_3,pm_3).M_3(newl) + <-(moveC_3,pmC_3).M_3(newl) + <-(exit_3,pe_3)<<M_3(l); <br />
-M_4:= <-(move_4,pm_4).M_4(newl) + <-(moveC_4,pmC_4).M_4(newl) + <-(exit_4,pe_4)<<M_4(l); <br />
+S_0(l):= (input_0,i_0).M_0(l); <br />
+S_1(l):= (input_1,i_1).M_1(l); <br />
+S_2(l):= (input_2,i_2).M_2(l); <br />
+S_3(l):= (input_3,i_3).M_3(l); <br />
+S_4(l):= (input_4,i_4).M_4(l); <br />
+M_0(l):= <-(move_0,pm_0).M_0(newl) + <-(moveC_0,pmC_0).M_0(newl) + <-(exit_0,pe_0)<<M_0(l); <br />
+M_1(l):= <-(move_1,pm_1).M_1(newl) + <-(moveC_1,pmC_1).M_1(newl) + <-(exit_1,pe_1)<<M_1(l); <br />
+M_2(l):= <-(move_2,pm_2).M_2(newl) + <-(moveC_2,pmC_2).M_2(newl) + <-(exit_2,pe_2)<<M_2(l); <br />
+M_3(l):= <-(move_3,pm_3).M_3(newl) + <-(moveC_3,pmC_3).M_3(newl) + <-(exit_3,pe_3)<<M_3(l); <br />
+M_4(l):= <-(move_4,pm_4).M_4(newl) + <-(moveC_4,pmC_4).M_4(newl) + <-(exit_4,pe_4)<<M_4(l); <br />
 H(l):= ->{l}(move_0,m_0).H(l) + ->{l}(move_1,m_1).H(l) + ->{l}(move_2,m_2).H(l) + ->{l}(move_3,m_3).H(l) + ->{l}(move_4,m_4).H(l); <br />
 C(l):= ->{l}(moveC_0,mC_0).C(l) + ->{l}(moveC_1,mC_1).C(l) + ->{l}(moveC_2,mC_2).C(l) + ->{l}(moveC_3,mC_3).C(l) + ->{l}(moveC_4,mC_4).C(l); <br />
 X(l):= ->{l}(exit_0,e_0).X(l) + ->{l}(exit_1,e_1).X(l) + ->{l}(exit_2,e_2).X(l) + ->{l}(exit_3,e_3).X(l) + ->{l}(exit_4,e_4).X(l); <br />
