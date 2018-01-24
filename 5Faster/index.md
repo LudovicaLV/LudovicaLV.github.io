@@ -1,4 +1,4 @@
-Model description: in this model the rate of movement of messages M_0 is equal to 5.0, while all the other messages move with rate 1.0.
+Model description: in this model the rate of movement of messages M_0 is equal to 5.0, while all the other messages move with rate 1.0.  <br />
 
 #Space: TwoD(10,10) <br />
 
