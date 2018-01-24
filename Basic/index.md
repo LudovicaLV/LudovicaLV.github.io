@@ -1,3 +1,8 @@
+Model description: we model the communication network using a complete graph composed by 100 nodes, where each node represents either a sender, a forwarder or an exit. To do so, we use a 10x10 grid structure, with the movement function allowing to move to any another grid cell in one step. The sender S_i introduces a message M_i in the network. Through the action of the forwarders, the message moves performing a random walk on the graph, until it reaches an exit (X) and leaves the network.
+The forwarders can be either honest (H) or corrupt (C). Corrupt forwarders aim to determine the
+sender of the messages they obtain. As initial condition, we have 5 senders S_i, each of them with
+the same number of messages that can be sent. We use the index i to distinguish among the senders
+and their generated messages. We have 5 exits X and 5 corrupted nodes C. All the remaining nodes are honest forwarders. <br />
 
 #Space: TwoD(10,10) <br />
 
