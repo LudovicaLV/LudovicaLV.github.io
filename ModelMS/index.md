@@ -99,4 +99,4 @@ LN(l):= ->{l}(end,e).LN(l) + ->{l}(endR,eR).LN(l); <br />
 #Initial conditions<br />
 fS(L), fL(N(3)), fLN(L \ N(3)), fP(L \ N(3), d)<br />
 <br />
-To define the initial conditions, we use the functions $\mathit{fS}$, $\mathit{fL}$, $\mathit{fLN}$ and $\mathit{fP}$ which locate respectively an agent $S$, $L$, $LN$ and $P$ in each location $l$ of the given spatial domain. The function $\mathit{fP}$ will locate the agents $P$ according with the given density $d$, which respects the density of OPCs. We indicate with $N(3)$ a Von Neumann neighbourhood of range 3, centred in the centre of the grid.
+To define the initial conditions, we use the functions fS, fL, fLN and fP which locate respectively an agent S, L, LN and P in each location l of the given spatial domain. The function fP will locate the agents P according with the given density d, which respects the density of OPCs. We indicate with N(3) a Von Neumann neighbourhood of range 3, centred in the centre of the grid.
