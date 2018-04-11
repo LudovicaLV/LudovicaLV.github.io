@@ -10,7 +10,7 @@ Authors: Ludovica Luisa Vissat, Michele Loreti, Laura Nenzi, Jane Hillston, Glen
 Authors: Ludovica Luisa Vissat, Michele Loreti, Laura Nenzi, Jane Hillston, Glenn Marion
 
 
-[Stochastic spatial modelling of the remyelination process in multiple sclerosis lesions]()<br />
+[Stochastic spatial modelling of the remyelination process in multiple sclerosis lesions](https://ludovicalv.github.io/Book/)<br />
 Authors: Ludovica Luisa Vissat, Jane Hillston, Anna Williams
 
 
