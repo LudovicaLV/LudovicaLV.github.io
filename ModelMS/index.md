@@ -28,26 +28,26 @@ hR_4 = 3.0;<br />
 pR_4 = 1.0;<br />
 hR_5 = 3.0;<br />
 pR_5 = 1.0;<br />
-cm_1 = 28.8;<br />
-pc_1 = 1.0;<br />
-cm_2 = 14.4;<br />
-pc_2 = 1.0;<br />
-cm_3 = 9.6;<br />
-pc_3 = 1.0;<br />
-cm_4 = 7.2;<br />
-pc_4 = 1.0;<br />
-cm_5 = 5.76;<br />
-pc_5 = 1.0;<br />
-am_1 = 28.8;<br />
-pa_1 = 1.0;<br />
-am_2 = 14.4;<br />
-pa_2 = 1.0;<br />
-am_3 = 9.6;<br />
-pa_3 = 1.0;<br />
-am_4 = 7.2;<br />
-pa_4 = 1.0;<br />
-am_5 = 5.76;<br />
-pa_5 = 1.0;<br />
+at_1 = 28.8;<br />
+pat_1 = 1.0;<br />
+at_2 = 14.4;<br />
+pat_2 = 1.0;<br />
+at_3 = 9.6;<br />
+pat_3 = 1.0;<br />
+at_4 = 7.2;<br />
+pat_4 = 1.0;<br />
+at_5 = 5.76;<br />
+pat_5 = 1.0;<br />
+re_1 = 28.8;<br />
+pre_1 = 1.0;<br />
+re_2 = 14.4;<br />
+pre_2 = 1.0;<br />
+re_3 = 9.6;<br />
+pre_3 = 1.0;<br />
+re_4 = 7.2;<br />
+pre_4 = 1.0;<br />
+re_5 = 5.76;<br />
+pre_5 = 1.0;<br />
 df = 0.16667;<br />
 pdf = 1.0;<br />
 rp = 0.0625;<br />
@@ -67,10 +67,10 @@ P(l) :=  <-(sigA_1,pA_1).D(l) + <-(sigA_2,pA_2).D(l) + <-(sigA_3,pA_3).D(l) + <b
           <br />
 D(l):= ->{l}(dup,d).C(l) + <-(dup,pd)>>P(l); <br />
 <br />
-C(l):= <-(act_1,pc_1).C(newl) + <-(act_2,pc_2).C(newl) + <-(act_3,pc_3).C(newl) +  <br />
-       <-(act_4,pc_4).C(newl) + <-(act_5,pc_5).C(newl) + <-(rep_1,pa_1).C(newl) + <br />
-       <-(rep_2,pa_2).C(newl) + <-(rep_3,pa_3).C(newl) + <-(rep_4,pa_4).C(newl) + <br />
-       <-(rep_5,pa_5).C(newl) + <-(diff,pdf).M(l);<br />
+C(l):= <-(act_1,pat_1).C(newl) + <-(act_2,pat_2).C(newl) + <-(act_3,pat_3).C(newl) +  <br />
+       <-(act_4,pat_4).C(newl) + <-(act_5,pat_5).C(newl) + <-(rep_1,pre_1).C(newl) + <br />
+       <-(rep_2,pre_2).C(newl) + <-(rep_3,pre_3).C(newl) + <-(rep_4,pre_4).C(newl) + <br />
+       <-(rep_5,pre_5).C(newl) + <-(diff,pdf).M(l);<br />
 <br />
 M(l):= <-(repair,prp)<<M(l); <br />
 <br />
@@ -78,16 +78,16 @@ S(l):= <-(actSA,phSA).A(l) + <-(actSR,phSR).R(l);  <br />
 <br />
 A(l):= ->{N(1)}(sigA_1,hA_1).A(l) + ->{N(2)}(sigA_2,hA_2).A(l) + <br />
        ->{N(3)}(sigA_3,hA_3).A(l) + ->{N(4)}(sigA_4,hA_4).A(l) + <br />
-       ->{N(5)}(sigA_5,hA_5).A(l) + ->{N(1)}(act_1,cm_1).A(l) + <br />
-       ->{N(2)}(act_2,cm_2).A(l) + ->{N(3)}(act_3,cm_3).A(l) + <br />
-       ->{N(4)}(act_4,cm_4).A(l) + ->{N(5)}(act_5,cm_5).A(l) + <br />
+       ->{N(5)}(sigA_5,hA_5).A(l) + ->{N(1)}(atr_1,at_1).A(l) + <br />
+       ->{N(2)}(atr_2,at_2).A(l) + ->{N(3)}(atr_3,at_3).A(l) + <br />
+       ->{N(4)}(atr_4,at_4).A(l) + ->{N(5)}(atr_5,at_5).A(l) + <br />
         <-(end,pe).S(l) + (degradeA,dA).S(l);<br />
 <br />
 R(l):= ->{N(1)}(sigR_1,hR_1).R(l) + ->{N(2)}(sigR_2,hR_2).R(l) + <br />
        ->{N(3)}(sigR_3,hR_3).R(l) + ->{N(4)}(sigR_4,hR_4).R(l) + <br />
-       ->{N(5)}(sigR_5,hR_5).R(l) + ->{N(1)}(rep_1,am_1).R(l) + <br />
-       ->{N(2)}(rep_2,am_2).R(l) + ->{N(3)}(rep_3,am_3).R(l) + <br />
-       ->{N(4)}(rep_4,am_4).R(l) + ->{N(5)}(rep_5,am_5).R(l) + <br />
+       ->{N(5)}(sigR_5,hR_5).R(l) + ->{N(1)}(rep_1,re_1).R(l) + <br />
+       ->{N(2)}(rep_2,re_2).R(l) + ->{N(3)}(rep_3,re_3).R(l) + <br />
+       ->{N(4)}(rep_4,re_4).R(l) + ->{N(5)}(rep_5,re_5).R(l) + <br />
        <-(endR,peR).S(l) + (degradeR,dR).S(l);<br />
 <br />
 L(l):= ->{l}(actSA,hSA).L(l) + ->{l}(actSR,hSR).L(l)  + ->{l}(diff,df).L(l) + <br />
