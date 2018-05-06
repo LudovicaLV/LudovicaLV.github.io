@@ -66,9 +66,9 @@ P(l) :=  <-(sigA_1,pA_1).D(l) + <-(sigA_2,pA_2).D(l) + <-(sigA_3,pA_3).D(l) + <b
           <br />
 D(l):= (dup,d).C(l)||P(l); <br />
 <br />
-C(l):= <-(attr_1,pat_1)|>C(new(l)) + <-(attr_2,pat_2)|>C(new(l)) + <-(attr_3,pat_3)|>C(new(l)) +
-       <-(attr_4,pat_4)|>C(new(l)) + <-(attr_5,pat_5)|>C(new(l)) + <-(rep_1,pre_1)|>C(new(l)) + 
-       <-(rep_2,pre_2)|>C(new(l)) + <-(rep_3,pre_3)|>C(new(l)) + <-(rep_4,pre_4)|>C(new(l)) +
+C(l):= <-(attr_1,pat_1)|>C(new(l)) + <-(attr_2,pat_2)|>C(new(l)) + <-(attr_3,pat_3)|>C(new(l)) + <br />
+       <-(attr_4,pat_4)|>C(new(l)) + <-(attr_5,pat_5)|>C(new(l)) + <-(rep_1,pre_1)|>C(new(l)) +  <br />
+       <-(rep_2,pre_2)|>C(new(l)) + <-(rep_3,pre_3)|>C(new(l)) + <-(rep_4,pre_4)|>C(new(l)) + <br />
        <-(rep_5,pre_5)|>C(new(l)) + <-(diff,pdf).M(l);<br />
 <br />
 M(l):= <-(repair,prp)<<M(l); <br />
