@@ -1,5 +1,5 @@
 
-[Automated Reasoning for Systems Biology and Medicine - Book chapter](https://ludovicalv.github.io/Book/Chapter.pdf) <br />
+[Remyelination: case study description](https://ludovicalv.github.io/Book/Chapter.pdf) <br />
 
 [MELA complete semantics](https://ludovicalv.github.io/MELA/Semantics.pdf) <br />
 
