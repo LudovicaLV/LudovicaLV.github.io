@@ -2,7 +2,7 @@ Model description: we model the communication network using a complete graph com
 The forwarders can be either honest (H) or corrupt (C). Corrupt forwarders aim to determine the
 sender of the messages they obtain. As initial condition, we have 5 senders S_i, each of them with
 the same number of messages that can be sent. We use the index i to distinguish among the senders
-and their generated messages. We have 5 exits X and 5 corrupted nodes C. All the remaining nodes are honest forwarders. <br />
+and their generated messages. We have 5 exits X and 5 corrupted nodes C. All the remaining nodes are honest forwarders. <br /> 
 
 #Space: TwoD(10,10) <br />
 
