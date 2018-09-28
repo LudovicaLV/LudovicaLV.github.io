@@ -1,5 +1,5 @@
 
-## Supplementary material for PhD thesis: <br />
+## Examples: <br />
 
 ## Predator-prey dynamics <br />
 
