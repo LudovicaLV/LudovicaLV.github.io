@@ -9,4 +9,4 @@ Download [zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/
 
 Run java -jar FireAnalysis.jar 
 
-The ouput PsiSafe.txt will be used by the MATLAB file AnalysisPlot.m 
+The MATLAB file AnalysisPlot.m can be used to visualize the output of the analysis.
