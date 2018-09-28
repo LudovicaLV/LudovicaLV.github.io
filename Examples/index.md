@@ -11,6 +11,16 @@ To analyse the effect of the spatial structure on the population dynamics:
 
 - The Python file Plot.py can be used to visualise the output of the simulation, which considers the overall species population.
 
+## SSTL evacuation routes <br />
+
+To analyse the SSTL property **<img src="http://latex.codecogs.com/svg.latex?\varphi_{SafeExit}">** (10 time units, r=2.0): 
+
+- Download [zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/SafeExit.zip) file. 
+
+- Run java -jar SafeExit.jar 
+
+- The MATLAB file AnalysisPlot.m can be used to visualize the output of the analysis.
+
 ## TSTL evacuation routes <br />
 
 To analyse the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{safe}">** (10 time units, r=2.0): 
@@ -23,8 +33,10 @@ To analyse the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\ps
 
 To analyse the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{Gsafe}">** (t=0, r=2.0): 
 
-- Download [zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1.1beta/GSafe.zip) file. 
+- Download [zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/GSafe.zip) file. 
 
 - Run java -jar GSafe.jar 
 
 - The MATLAB file AnalysisPlot.m can be used to visualize the output of the analysis.
+
+
