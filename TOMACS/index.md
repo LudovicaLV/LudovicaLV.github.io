@@ -31,6 +31,8 @@ To analyse the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\ps
 
 - The MATLAB file AnalysisPlot.m can be used to visualize the output of the analysis.
 
+For different agent movement rates, r = 1.0 ([zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/GSafe1.zip) file), 3.0 ([zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/GSafe3.zip) file), 4.0 ([zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/GSafe4.zip) file)
+
 ### MELA models
 We present the [MELA](https://arxiv.org/abs/1610.08171) models we used to perform stochastic simulations.<br />
 
