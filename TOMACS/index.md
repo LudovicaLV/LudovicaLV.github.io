@@ -12,6 +12,25 @@ We provide the spatio-temporal evolution of TSTL properties related with the cas
 [Safe exit (r=4.0)](https://drive.google.com/open?id=0B6Jk3sy4LnqwZ254NFF3d1U2VTg)  <br />
 [Fire spread](https://drive.google.com/open?id=0B6Jk3sy4LnqwMnppWEc2YjJaeEU)  <br />
 
+
+## TSTL evacuation routes <br />
+
+To analyse the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{safe}">** (10 time units, r=2.0): 
+
+- Download [zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/PsiSafe.zip) file. 
+
+- Run java -jar FireAnalysis.jar 
+
+- The MATLAB file AnalysisPlot.m can be used to visualize the output of the analysis.
+
+To analyse the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{safeRoute}">** (t=0, r=2.0): 
+
+- Download [zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/GSafe.zip) file. 
+
+- Run java -jar GSafe.jar 
+
+- The MATLAB file AnalysisPlot.m can be used to visualize the output of the analysis.
+
 ### MELA models
 We present the [MELA](https://arxiv.org/abs/1610.08171) models we used to perform stochastic simulations.<br />
 
