@@ -55,7 +55,7 @@ To analyse the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\ps
 
 - Run java -jar network01.jar 
 
-- The Python file plot01.py can be used to visualize the output of the analysis of the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{01}">**. The Python file plotM0.py can be used to visualize the output of the analysis, choosing the output file Scenario_n_M0.txt. Similarly, the Python file plotM1.py can be used to visualize the output of the analysis choosing Scenario_n_M1.txt. 
+- The Python file plot01.py can be used to visualize the output of the analysis of the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{01}">**. The Python file plotM0.py can be used to visualize the output of the analysis, choosing the output file Scenario_n_M0.txt, n in {1,2,3,4}. Similarly, the Python file plotM1.py can be used to visualize the output of the analysis choosing Scenario_n_M1.txt. 
 
 - Once the previous simulations have been performed, the Python file plotTotal.py can be used to visualize the output of the analysis of the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{total}">** (20 time units) presented in Fig. 12 in the paper. The results have been produced choosing any of the scenarios presented earlier and the output file for this result is called Scenario_n_TOTAL.txt
 
