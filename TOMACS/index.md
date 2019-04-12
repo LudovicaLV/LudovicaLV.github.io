@@ -25,8 +25,23 @@ To analyse the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\ps
 
 - The MATLAB file AnalysisPlot.m can be used to visualize the output of the analysis.
 
-For different agent movement rates, r = 1.0 ([zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/GSafe1.zip) file), 3.0 ([zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/GSafe3.zip) file), 4.0 ([zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/GSafe4.zip) file)
+- For different agent movement rates, r = 1.0 ([zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/GSafe1.zip) file), 3.0 ([zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/GSafe3.zip) file), 4.0 ([zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/GSafe4.zip) file)
 
+To apply the automatic procedure for the analysis of the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{safeRoute}">** (t=0, r=4.0, k=10) presented in Fig.6 in the paper:
+
+- Download [zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/safeRouteRel.zip) file. 
+
+- Run java -jar safeRouteRel.jar 
+
+- The output will show the number of runs needed to satisfy each requirement. The MATLAB file AnalysisPlot.m can be used to visualize the output of the analysis, inserting the correct file name (which will depend on the number of runs for each requirement).
+
+To apply the automatic procedure for the analysis of the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{fire}">** (t=5, k=10) presented in Fig.7 in the paper:
+
+- Download [zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/fireRel.zip) file. 
+
+- Run java -jar fireRel.jar 
+
+- The output will show the number of runs needed to satisfy each requirement. The MATLAB file AnalysisPlot.m can be used to visualize the output of the analysis, inserting the correct file name (which will depend on the number of runs for each requirement).
 
 ## Additional material (videos) <br />
 We provide the spatio-temporal evolution of TSTL properties related with the case study on emergency evacuation route presented in the paper. <br />
