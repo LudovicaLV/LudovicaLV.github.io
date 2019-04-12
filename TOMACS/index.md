@@ -47,11 +47,11 @@ To apply the automatic procedure for the analysis of the TSTL property **<img sr
 
 To analyse the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{01}">** (20 time units) presented in Fig.8, 9, 10, 11 in the paper: 
 
-- Download zip file for the chosen scenario:
-[Scenario 1: basic scenario](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/basic.zip)
-[Scenario 2: messages M0 5 time faster](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/5times.zip)
-[Scenario 3: messages M0 10 time faster](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/10times.zip) 
-[Scenario 4: 50 initial messages for S0](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/50messages.zip) . 
+- Download zip file for the chosen scenario: <br />
+[Scenario 1: basic scenario](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/basic.zip)  <br />
+[Scenario 2: messages M0 5 time faster](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/5times.zip)  <br />
+[Scenario 3: messages M0 10 time faster](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/10times.zip)   <br />
+[Scenario 4: 50 initial messages for S0](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/50messages.zip)  <br />
 
 - Run java -jar network01.jar 
 
