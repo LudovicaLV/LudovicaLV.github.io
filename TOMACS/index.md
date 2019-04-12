@@ -31,7 +31,7 @@ To apply the automatic procedure for the analysis of the TSTL property **<img sr
 
 - Download [zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/safeRouteRel.zip) file. 
 
-- Run java -jar safeRouteRel.jar 
+- Run java -jar safeRoute.jar 
 
 - The output will show the number of runs needed to satisfy each requirement. The MATLAB file AnalysisPlot.m can be used to visualize the output of the TSTL analysis at the given time point, inserting the correct file name, which will depend on the number of runs needed for each requirement (safeRoute_n.txt, where n is the number of runs, can be found in the first line of the MATLAB code).
 
@@ -39,14 +39,30 @@ To apply the automatic procedure for the analysis of the TSTL property **<img sr
 
 - Download [zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/fireRel.zip) file. 
 
-- Run java -jar fireRel.jar 
+- Run java -jar fire.jar 
 
 - The output will show the number of runs needed to satisfy each requirement. The MATLAB file AnalysisPlot.m can be used to visualize the output of the TSTL analysis at the given time point, inserting the correct file name, which will depend on the number of runs needed for each requirement (fire_n.txt, where n is the number of runs, can be found in the first line of the MATLAB code).
+
+## TSTL anonymity network <br />
+
+To analyse the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{01}">** (20 time units) presented in Fig.8, 9, 10, 11 in the paper: 
+
+- Download zip file for the chosen scenario:
+- [Scenario 1: basic scenario](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/basic.zip)
+- [Scenario 2: messages M0 5 time faster](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/5times.zip)
+- [Scenario 3: messages M0 10 time faster](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/10times.zip) 
+- [Scenario 4: 50 initial messages for S0](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/50messages.zip) . 
+
+- Run java -jar network01.jar 
+
+- The Python file plot01.py can be used to visualize the output of the analysis of the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{01}">**. The Python file plotM0.py can be used to visualize the output of the analysis, choosing the output file Scenario_n_M0.txt. Similarly, the Python file plotM1.py can be used to visualize the output of the analysis choosing Scenario_n_M1.txt. 
+
+- Once the previous simulations have been performed, the Python file plotTotal.py can be used to visualize the output of the analysis of the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{total}">** (20 time units) presented in Fig.12 in the paper. The results have been produced choosing any of the scenarios presented earlier and the output file for this result is called Scenario_n_TOTAL.txt
 
 ## Additional material (videos) <br />
 We provide the spatio-temporal evolution of TSTL properties related with the case study on emergency evacuation route presented in the paper. <br />
 
-[Safe exit (r=2.0)](https://drive.google.com/open?id=0B6Jk3sy4LnqwM3RsOTI4QndHaDg)  <br />
+[Safe exit (r=2.0)](https://ludovicalv.github.io/Videos/SafeExit_Rate2))  <br />
 [Safe exit (r=4.0)](https://drive.google.com/open?id=0B6Jk3sy4LnqwZ254NFF3d1U2VTg)  <br />
 [Fire spread](https://drive.google.com/open?id=0B6Jk3sy4LnqwMnppWEc2YjJaeEU)  <br />
 
