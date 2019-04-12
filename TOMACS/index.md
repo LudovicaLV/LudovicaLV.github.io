@@ -62,9 +62,9 @@ To analyse the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\ps
 ## Additional material (videos) <br />
 We provide the spatio-temporal evolution of TSTL properties related with the case study on emergency evacuation route presented in the paper. <br />
 
-[Safe exit (r=2.0)](https://www.youtube.com/watch?v=BIvezCVcsYs)  <br />
-[Safe exit (r=4.0)](https://drive.google.com/open?id=0B6Jk3sy4LnqwZ254NFF3d1U2VTg)  <br />
-[Fire spread](https://drive.google.com/open?id=0B6Jk3sy4LnqwMnppWEc2YjJaeEU)  <br />
+[Safe exit (r=2.0)](https://www.youtube.com/watch?v=XM7qFoLOGkE&feature=youtu.be)  <br />
+[Safe exit (r=4.0)](https://www.youtube.com/watch?v=5uY1Ovamf3Y&feature=youtu.be)  <br />
+[Fire spread](https://www.youtube.com/watch?v=qSEIFJx_DhM&feature=youtu.be)  <br />
 
 ### Additional material (MELA models)
 We present the [MELA](https://arxiv.org/abs/1610.08171) models we used to perform stochastic simulations.<br />
