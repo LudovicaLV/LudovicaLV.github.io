@@ -33,7 +33,7 @@ To apply the automatic procedure for the analysis of the TSTL property **<img sr
 
 - Run java -jar safeRouteRel.jar 
 
-- The output will show the number of runs needed to satisfy each requirement. The MATLAB file AnalysisPlot.m can be used to visualize the output of the analysis, inserting the correct file name (which will depend on the number of runs for each requirement).
+- The output will show the number of runs needed to satisfy each requirement. The MATLAB file AnalysisPlot.m can be used to visualize the output of the TSTL analysis at the given time point, inserting the correct file name, which will depend on the number of runs needed for each requirement (safeRoute_n.txt, where n is the number of runs).
 
 To apply the automatic procedure for the analysis of the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{fire}">** (t=5, k=10) presented in Fig.7 in the paper:
 
@@ -41,7 +41,7 @@ To apply the automatic procedure for the analysis of the TSTL property **<img sr
 
 - Run java -jar fireRel.jar 
 
-- The output will show the number of runs needed to satisfy each requirement. The MATLAB file AnalysisPlot.m can be used to visualize the output of the analysis, inserting the correct file name (which will depend on the number of runs for each requirement).
+- The output will show the number of runs needed to satisfy each requirement. The MATLAB file AnalysisPlot.m can be used to visualize the output of the TSTL analysis at the given time point, inserting the correct file name, which will depend on the number of runs needed for each requirement (fire_n.txt, where n is the number of runs).
 
 ## Additional material (videos) <br />
 We provide the spatio-temporal evolution of TSTL properties related with the case study on emergency evacuation route presented in the paper. <br />
