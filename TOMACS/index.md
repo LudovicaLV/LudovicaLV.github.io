@@ -43,7 +43,7 @@ To apply the automatic procedure for the analysis of the TSTL property **<img sr
 
 - The output will show the number of runs needed to satisfy each requirement. The MATLAB file AnalysisPlot.m can be used to visualize the output of the TSTL analysis at the given time point, inserting the correct file name, which will depend on the number of runs needed for each requirement (fire_n.txt, where n is the number of runs, can be found in the first line of the MATLAB code).
 
-## Three-Valued Spatio-Temporal (TSTL) properties verification: anonymity network <br />
+### Three-Valued Spatio-Temporal (TSTL) properties verification: anonymity network <br />
 
 To analyse the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{01}">** (20 time units) presented in Fig. 8, 9, 10, 11 in the paper: 
 
@@ -59,7 +59,7 @@ To analyse the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\ps
 
 - Once the previous simulations have been performed, the Python file plotTotal.py can be used to visualize the output of the analysis of the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{total}">** (20 time units) presented in Fig. 12 in the paper. 
 
-## Additional material (videos) <br />
+### Additional material (videos) <br />
 We provide the spatio-temporal evolution of TSTL properties related with the case study on emergency evacuation route presented in the paper. <br />
 
 [Safe exit (r=2.0)](https://www.youtube.com/watch?v=XM7qFoLOGkE&feature=youtu.be)  <br />
