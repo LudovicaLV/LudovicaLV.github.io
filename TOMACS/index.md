@@ -48,16 +48,16 @@ To apply the automatic procedure for the analysis of the TSTL property **<img sr
 To analyse the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{01}">** (20 time units) presented in Fig. 8, 9, 10, 11 in the paper: 
 
 - Download zip file for the chosen scenario: <br />
-[Scenario 1: basic scenario](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/basic.zip)  <br />
-[Scenario 2: messages M0 5 time faster](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/5times.zip)  <br />
-[Scenario 3: messages M0 10 time faster](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/10times.zip)   <br />
-[Scenario 4: 50 initial messages for S0](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/50messages.zip)  <br />
+[Scenario 1: basic scenario](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/Scenario1.zip)  <br />
+[Scenario 2: messages M0 5 time faster](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/Scenario2.zip)  <br />
+[Scenario 3: messages M0 10 time faster](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/Scenario3.zip)   <br />
+[Scenario 4: 50 initial messages for S0](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/Scenario4.zip)  <br />
 
-- Run java -jar network01.jar 
+- Run java -jar Scenario_n.jar, choosing the appropriate n, between 1, 2, 3, 4, depending on the scenario. 
 
-- The Python file plot01.py can be used to visualize the output of the analysis of the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{01}">**. The Python file plotM0.py can be used to visualize the output of the analysis, choosing the output file Scenario_n_M0.txt, n in {1,2,3,4}. Similarly, the Python file plotM1.py can be used to visualize the output of the analysis choosing Scenario_n_M1.txt. 
+- The Python file plot01.py can be used to visualize the output of the analysis of the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{01}">**. The Python files plotM0.py and plotM1.py can be used to visualize the output of the analysis, lookign at the estimated satisfaction probabilities of the relative SSTL properties. 
 
-- Once the previous simulations have been performed, the Python file plotTotal.py can be used to visualize the output of the analysis of the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{total}">** (20 time units) presented in Fig. 12 in the paper. The results have been produced choosing any of the scenarios presented earlier and the output file for this result is called Scenario_n_TOTAL.txt
+- Once the previous simulations have been performed, the Python file plotTotal.py can be used to visualize the output of the analysis of the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{total}">** (20 time units) presented in Fig. 12 in the paper. 
 
 ## Additional material (videos) <br />
 We provide the spatio-temporal evolution of TSTL properties related with the case study on emergency evacuation route presented in the paper. <br />
