@@ -31,7 +31,7 @@ To apply the automatic procedure for the analysis of the TSTL property **<img sr
 
 - Run java -jar safeRoute.jar 
 
-- The output will show the number of runs needed to satisfy each requirement. The MATLAB file AnalysisPlot.m can be used to visualize the output of the TSTL analysis at the given time point, inserting the correct file name, which will depend on the number of runs needed for each requirement (safeRoute_n.txt, where n is the number of runs, can be found in the first line of the MATLAB code).
+- The output will show the number of runs needed to satisfy each requirement. The MATLAB file AnalysisPlot.m can be used to visualize the output of the TSTL analysis at the given time point, inserting the correct file name in the MATLAB file (in the first line). The name will depend on the number of runs needed for each requirement (safeRoute_n.txt, where n is the number of runs).
 
 To apply the automatic procedure for the analysis of the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{fire}">** (t=5, k=10) presented in Fig. 7 in the paper:
 
@@ -39,7 +39,7 @@ To apply the automatic procedure for the analysis of the TSTL property **<img sr
 
 - Run java -jar fire.jar 
 
-- The output will show the number of runs needed to satisfy each requirement. The MATLAB file AnalysisPlot.m can be used to visualize the output of the TSTL analysis at the given time point, inserting the correct file name, which will depend on the number of runs needed for each requirement (fire_n.txt, where n is the number of runs, can be found in the first line of the MATLAB code).
+- The output will show the number of runs needed to satisfy each requirement. The MATLAB file AnalysisPlot.m can be used to visualize the output of the TSTL analysis at the given time point, inserting the correct file name in the MATLAB file (in the first line). The name will depend on the number of runs needed for each requirement (safeRoute_n.txt, where n is the number of runs).
 
 ### Three-Valued Spatio-Temporal (TSTL) properties verification: anonymity network <br />
 
