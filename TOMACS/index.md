@@ -1,7 +1,5 @@
 
-## Supplementary material of the paper: <br />
-
-## Analysis of spatio-temporal properties of stochastic systems using TSTL <br />
+## Supplementary material of the paper: Analysis of spatio-temporal properties of stochastic systems using TSTL <br />
 
 [Ludovica Luisa Vissat](http://homepages.inf.ed.ac.uk/s1372511/), [Michele Loreti](http://www.micheleloreti.com/), [Laura Nenzi](https://www.imtlucca.it/laura.nenzi), [Jane Hillston](	http://homepages.inf.ed.ac.uk/jeh), [Glenn Marion](	http://www.bioss.ac.uk/people/glenn.html)
 
