@@ -44,7 +44,7 @@ To apply the automatic procedure for the analysis of the TSTL property **<img sr
 
 ### Three-Valued Spatio-Temporal (TSTL) properties verification: anonymity network <br />
 
-To analyse the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{01}">** (20 time units) presented in Fig. 8, 9, 10, 11 in the paper: 
+To analyse the properties presented in Fig. 8-12 in the paper: 
 
 - Download zip file for the chosen scenario: <br />
 [Scenario 1: basic scenario](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/Scenario1.zip)  <br />
@@ -54,9 +54,7 @@ To analyse the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\ps
 
 - Run java -jar Scenario_n.jar, choosing the appropriate n, between 1, 2, 3, 4, depending on the scenario. 
 
-- The Python file plot01.py can be used to visualize the output of the analysis of the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{01}">**. The Python files plotM0.py and plotM1.py can be used to visualize the output of the analysis, looking at the estimated satisfaction probabilities of the relative SSTL properties. 
-
-- The Python file plotTotal.py can be used to visualize the output of the analysis of the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{total}">** (20 time units) presented in Fig. 12 in the paper. 
+- The Python file plot01.py can be used to visualize the output of the analysis of the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{01}">**, while the Python files plotM0.py and plotM1.py can be used to visualize the output of the analysis, looking at the estimated satisfaction probabilities of the relative SSTL properties (Figures 8-11). The Python file plotTotal.py can be used to visualize the output of the analysis of the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{total}">** (20 time units) presented in Fig. 12 in the paper. 
 
 ### Additional material (videos) <br />
 We provide the spatio-temporal evolution of TSTL properties related with the case study on emergency evacuation route presented in the paper. <br />
