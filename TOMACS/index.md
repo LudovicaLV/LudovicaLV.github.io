@@ -37,7 +37,7 @@ To apply the automatic procedure for the analysis of the TSTL property **<img sr
 
 To apply the automatic procedure for the analysis of the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{fire}">** (t=5, k=10) presented in Fig. 7 in the paper:
 
-- Download [zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/fireRel.zip) file. 
+- Download [zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/FireRel.zip) file. 
 
 - Run java -jar fire.jar 
 
