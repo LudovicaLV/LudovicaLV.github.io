@@ -33,6 +33,8 @@ To apply the automatic procedure for the analysis of the TSTL property **<img sr
 
 - The output will show the number of runs needed to satisfy each requirement. The MATLAB file AnalysisPlot.m can be used to visualize the output of the TSTL analysis at the given time point, inserting the correct file name in the MATLAB file (in the first line). The name, safeRoute_n.txt, will depend on the output, where n is the number of runs needed for each requirement.
 
+- The output Result.txt will show the number of simulations and the number of U values of the corresponding analysis.
+
 To apply the automatic procedure for the analysis of the TSTL property **<img src="http://latex.codecogs.com/svg.latex?\psi_{fire}">** (t=5, k=10) presented in Fig. 7 in the paper:
 
 - Download [zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/fireRel.zip) file. 
@@ -40,6 +42,8 @@ To apply the automatic procedure for the analysis of the TSTL property **<img sr
 - Run java -jar fire.jar 
 
 - The output will show the number of runs needed to satisfy each requirement. The MATLAB file AnalysisPlot.m can be used to visualize the output of the TSTL analysis at the given time point, inserting the correct file name in the MATLAB file (in the first line). The name, fire_n.txt, will depend on the output, where n is the number of runs needed for each requirement.
+
+- The output Result.txt will show the number of simulations and the number of U values of the corresponding analysis.
 
 
 ### Three-Valued Spatio-Temporal (TSTL) properties verification: anonymity network <br />
