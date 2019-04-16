@@ -39,7 +39,7 @@ To apply the automatic procedure for the analysis of the TSTL property **<img sr
 
 - Download [zip](https://github.com/LudovicaLV/EvacuationRoutes_Analysis/releases/download/V0.1beta/FireRel.zip) file. 
 
-- Run java -jar fire.jar 
+- Run java -jar Fire.jar 
 
 - The output will show the number of runs needed to satisfy each requirement. The MATLAB file AnalysisPlot.m can be used to visualize the output of the TSTL analysis at the given time point, inserting the correct file name in the MATLAB file (in the first line). The name, fire_n.txt, will depend on the output, where n is the number of runs needed for each requirement.
 
