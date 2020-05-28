@@ -12,6 +12,6 @@ Visit [numerusinc.com](https://www.numerusinc.com/) to download the latest versi
 
 - The R code for the individual analysis, the pair analysis and the frequency analysis, explained in Section 2, 3 and in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf), can be dowloaded [here]().
 
-To perform all these analysis procedures we used [RStudio](https://rstudio.com/).
+We used the integrated development environment [RStudio](https://rstudio.com/) to perform all the analysis.
 
 
