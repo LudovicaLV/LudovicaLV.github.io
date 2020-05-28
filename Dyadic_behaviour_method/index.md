@@ -6,9 +6,9 @@
 
 To generate the data used in Section 4, we create and run the following NMB models, explained in details in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf)
 
-- Distance-dependent behaviour: the model can be downloaded [here]()
+- Distance-dependent behaviour: the model can be downloaded [here](https://github.com/LudovicaLV/Dyadic_behaviour_method/Method_distance.nmd)
 
-- Time-dependent behaviour: the model can be downloaded [here]()
+- Time-dependent behaviour: the model can be downloaded [here](https://github.com/LudovicaLV/Dyadic_behaviour_method/Method_time.nmd)
 
 ### R code for the analysis  <br />
 
