@@ -24,11 +24,11 @@ Visit [numerusinc.com](https://www.numerusinc.com/) to download the latest versi
 
 ### R code for the analysis - simulated data <br />
 
-- The R code for the individual analysis, explained in Section 2 and 3, can be dowloaded [here](https://www.dropbox.com/s/l8yy35atibxutmj/AB_total.R?dl=1).
+- The R code for the individual analysis, explained in Section 2 and 3, can be dowloaded [here](https://www.dropbox.com/s/l8yy35atibxutmj/AB_total.R?dl=1). This code has been used to generate Figures 5 and 6.
 
-- The R code for the pair analysis, explained in Section 2 and in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf), can be dowloaded [here](https://www.dropbox.com/s/b4tb4zqxse8zu7n/Pair_barplot_AB.R?dl=1).
+- The R code for the pair analysis, explained in Section 2 and in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf), can be dowloaded [here](https://www.dropbox.com/s/b4tb4zqxse8zu7n/Pair_barplot_AB.R?dl=1). This code has been used to generate Figure 8.
 
-- The R code used to plot the pair distance, colored according to the pair behaviour, can be downloaded [here](https://www.dropbox.com/s/3e9p5lhkm88dxye/Col_distance_AB.R?dl=1).
+- The R code used to plot the pair distance, colored according to the pair behaviour, can be downloaded [here](https://www.dropbox.com/s/3e9p5lhkm88dxye/Col_distance_AB.R?dl=1). This code has been used to generate Figures 9 and 10.
 
 We used the integrated development environment [RStudio](https://rstudio.com/) to perform all the analysis.
 
@@ -38,10 +38,10 @@ Can we provide the data for the 2 considered individuals?
 
 ### R code for the analysis - empirical data <br />
 
-- The R code for the individual analysis can be dowloaded [here]() - to be added.
+- The R code for the individual analysis can be dowloaded [here]() - to be added. This code has been used to generate Figure 12.
 
-- The R code for the pair analysis can be dowloaded [here]() - to be added.
+- The R code for the pair analysis can be dowloaded [here]() - to be added. This code has been used to generate Figure 13. For the season analysis, the R code can be download [here]() - to be added. This code has been used to generate Figure 14.
 
-- The R code for the frequency analysis, explained in Section 2 and in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf), can be dowloaded [here]() - to be added.
+- The R code for the frequency analysis, explained in Section 2 and in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf), can be dowloaded [here]() - to be added. This code has been used to generate Figures 16, 17 and 18. The code for the time of the day analysis can be dowloaded [here]() - to be added, while the code for the season analysis can be be dowloaded [here]() - to be added.
 
 
