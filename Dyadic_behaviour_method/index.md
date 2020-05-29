@@ -38,9 +38,7 @@ Can we provide the data for the 2 considered individuals?
 
 ### R code for the analysis - empirical data <br />
 
-- TBA: to be added 
-
-- The R code for the individual analysis can be dowloaded [here]() - TBA. This code has been used to generate Figure 12.
+- The R code for the individual analysis can be dowloaded [here]() - TBA (to be added). This code has been used to generate Figure 12.
 
 - The R code for the pair analysis can be dowloaded [here]() - TBA. This code has been used to generate Figure 13. For the season analysis, the R code can be download [here]() - TBA. This code has been used to generate Figure 14.
 
