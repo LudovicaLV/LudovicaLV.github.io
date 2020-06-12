@@ -34,7 +34,7 @@ We used the integrated development environment [RStudio](https://rstudio.com/) t
 
 ### Empirical data: African elephant GPS relocation data <br />
 
-Can we provide the data for the 2 considered individuals?
+The relocation data for the cow and the bull can be downloaded can be downloaded: [cow](https://www.dropbox.com/s/9tfr4u9hl9xiche/Cow.RData?dl=1), [bull](https://www.dropbox.com/s/csxqswp5nwn8emm/Bull.RData?dl=1)
 
 ### R code for the analysis - empirical data <br />
 
@@ -42,6 +42,6 @@ Can we provide the data for the 2 considered individuals?
 
 - The R code for the pair analysis can be dowloaded [here]() - TBA. This code has been used to generate Figure 13. For the season analysis, the R code can be download [here]() - TBA. This code has been used to generate Figure 14.
 
-- The R code for the frequency analysis, explained in Section 2 and in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf), can be dowloaded [here]() - TBA. This code has been used to generate Figures 16, 17 and 18. The code for the time of the day analysis can be dowloaded [here]() - TBA, while the code for the season analysis can be be dowloaded [here]() - TBA.
+- The R code for the extended analysis, explained in Section 2 and in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf), can be dowloaded [here]() - TBA. This code has been used to generate Figures 16, 17 and 18. The code for the time of the day analysis can be dowloaded [here]() - TBA, while the code for the season analysis can be be dowloaded [here]() - TBA.
 
 
