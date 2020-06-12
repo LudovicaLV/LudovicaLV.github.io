@@ -24,11 +24,11 @@ Visit [numerusinc.com](https://www.numerusinc.com/) to download the latest versi
 
 ### R code for the analysis - simulated data <br />
 
-- The R code for the individual analysis, explained in Section 2 and 3, can be dowloaded [here](https://www.dropbox.com/s/l8yy35atibxutmj/AB_total.R?dl=1). This code has been used to generate Figures 5 and 6.
+- The R code for the individual analysis, explained in Section 2 and 3, can be dowloaded [here](https://www.dropbox.com/s/l8yy35atibxutmj/AB_total.R?dl=1). This code has been used to generate Figure 6.
 
-- The R code for the pair analysis, explained in Section 2 and in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf), can be dowloaded [here](https://www.dropbox.com/s/b4tb4zqxse8zu7n/Pair_barplot_AB.R?dl=1). This code has been used to generate Figure 8.
+- The R code for the pair analysis, explained in Section 2 and in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf), can be dowloaded [here](https://www.dropbox.com/s/b4tb4zqxse8zu7n/Pair_barplot_AB.R?dl=1). This code has been used to generate Figure 7.
 
-- The R code used to plot the pair distance, colored according to the pair behaviour, can be downloaded [here](https://www.dropbox.com/s/3e9p5lhkm88dxye/Col_distance_AB.R?dl=1). This code has been used to generate Figures 9 and 10.
+- The R code used to plot the pair distance, colored according to the pair behaviour, can be downloaded [here](https://www.dropbox.com/s/3e9p5lhkm88dxye/Col_distance_AB.R?dl=1). This code has been used to generate Figures 8 and 9.
 
 We used the integrated development environment [RStudio](https://rstudio.com/) to perform all the analysis.
 
@@ -38,10 +38,10 @@ The relocation data for the cow and the bull can be downloaded can be downloaded
 
 ### R code for the analysis - empirical data <br />
 
-- The R code for the individual analysis can be dowloaded [here]() - TBA (to be added). This code has been used to generate Figure 12.
+- The R code for the individual analysis can be dowloaded [here]() - TBA (to be added). This code has been used to generate Figure 10.
 
-- The R code for the pair analysis can be dowloaded [here]() - TBA. This code has been used to generate Figure 13. For the season analysis, the R code can be download [here]() - TBA. This code has been used to generate Figure 14.
+- The R code for the pair analysis can be dowloaded [here]() - TBA. This code has been used to generate Figure 11. For the season analysis, the R code can be download [here]() - TBA. This code has been used to generate Figure 12.
 
-- The R code for the extended analysis, explained in Section 2 and in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf), can be dowloaded [here]() - TBA. This code has been used to generate Figures 16, 17 and 18. The code for the time of the day analysis can be dowloaded [here]() - TBA, while the code for the season analysis can be be dowloaded [here]() - TBA.
+- The R code for the extended analysis, explained in Section 2 and in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf), can be dowloaded [here]() - TBA. This code has been used to generate Figures 15 and 16. The code for the time of the day analysis can be dowloaded [here]() - TBA, while the code for the season analysis can be be dowloaded [here]() - TBA.
 
 
