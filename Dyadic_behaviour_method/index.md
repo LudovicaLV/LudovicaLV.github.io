@@ -40,7 +40,7 @@ The relocation data for the cow and the bull can be downloaded can be downloaded
 
 - The R code for the individual analysis can be dowloaded [here]() - TBA (to be added). This code has been used to generate Figure 10.
 
-- The R code for the pair analysis can be dowloaded [here]() - TBA. This code has been used to generate Figure 11. For the season analysis, the R code can be download [here]() - TBA. This code has been used to generate Figure 12.
+- The R code for the pair analysis can be dowloaded [here]() - TBA. This code has been used to generate Figure 11. 
 
 - The R code for the extended analysis, explained in Section 2 and in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf), can be dowloaded [here]() - TBA. This code has been used to generate Figures 15 and 16. The code for the time of the day analysis can be dowloaded [here]() - TBA, while the code for the season analysis can be be dowloaded [here]() - TBA.
 
