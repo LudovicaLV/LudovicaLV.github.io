@@ -42,8 +42,8 @@ The relocation data for the cow and the bull can be downloaded can be downloaded
 
 - The R code for the individual analysis can be dowloaded [here](https://www.dropbox.com/s/11wxp6x17t11lls/Ind_behaviour_barplot.R?dl=1) for the barplots and [here](https://www.dropbox.com/s/9ae4bzay3xxkoj9/Ind_behaviour_stat_analysis.R?dl=1) for the statistical analysis. This code has been used to generate Figure 10.
 
-- The R code for the pair analysis can be dowloaded [here](https://www.dropbox.com/s/gn8mgev2dtg1bv1/Pair_analysis.R?dl=1) - TBA. This code has been used to generate Figure 11. 
+- The R code for the pair analysis can be dowloaded [here](https://www.dropbox.com/s/gn8mgev2dtg1bv1/Pair_analysis.R?dl=1). This code has been used to generate Figure 11. 
 
-- The R code for the extended analysis, explained in Section 2 and in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf), can be dowloaded [here](https://www.dropbox.com/s/bsx36bcq0jxrjc3/Extended_analysis.R?dl=1) - TBA. This code has been used to generate Figures 15 .
+- The R code for the extended analysis, explained in Section 2 and in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf), can be dowloaded [here](https://www.dropbox.com/s/bsx36bcq0jxrjc3/Extended_analysis.R?dl=1). This code has been used to generate Figure 15 .
 
 
