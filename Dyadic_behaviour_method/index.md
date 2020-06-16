@@ -38,7 +38,7 @@ The relocation data for the cow and the bull can be downloaded can be downloaded
 
 ### R code for the analysis - empirical data <br />
 
-- The R code for the creation of the dataframe for the analysis can be dowloaded [here](https://www.dropbox.com/s/91qcgp55sirqx6j/DataFrame.R?dl=1). Run this code as first step for the following analysis, for the calculation of pair distance and different angles of interest.
+- The R code for the creation of the dataframe for the analysis (calculation of pair distance and different angles of interest) can be dowloaded [here](https://www.dropbox.com/s/91qcgp55sirqx6j/DataFrame.R?dl=1). Run this code as first step for any of the following analysis.
 
 - The R code for the individual analysis can be dowloaded [here](https://www.dropbox.com/s/11wxp6x17t11lls/Ind_behaviour_barplot.R?dl=1) for the barplots and [here](https://www.dropbox.com/s/9ae4bzay3xxkoj9/Ind_behaviour_stat_analysis.R?dl=1) for the statistical analysis. This code has been used to generate Figure 10.
 
