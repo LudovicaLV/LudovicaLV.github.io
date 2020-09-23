@@ -1,9 +1,8 @@
 ## Supplementary material for the paper: <br />
 ## A method for parsing spatio-temporal features of dyadic movement behaviour using GPS relocation data <br />
 
-Authors: [Ludovica Luisa Vissat](https://ourenvironment.berkeley.edu/people/ludovica-luisa-vissat), [Wayne M. Getz](https://ourenvironment.berkeley.edu/people/wayne-marcus-getz) <br />
-Depart. ESPM, University of California, Berkeley, CA 94720-3114, USA <br />
-l.luisavissat@berkeley.edu, wgetz@berkeley.edu
+Authors: [Ludovica Luisa Vissat](https://ourenvironment.berkeley.edu/people/ludovica-luisa-vissat), [Jason K. Blackburn](https://geog.ufl.edu/faculty/blackburn/), [Wayne M. Getz](https://ourenvironment.berkeley.edu/people/wayne-marcus-getz) <br />
+l.luisavissat@berkeley.edu, jkblackburn@ufl.edu, wgetz@berkeley.edu
 
 ### Numerus Model Builder (NMB) models <br />
 
