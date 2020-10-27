@@ -25,7 +25,7 @@ Visit [numerusinc.com](https://www.numerusinc.com/) to download the latest versi
 
 - The R code for the individual analysis, explained in Section 2 and 3, can be dowloaded [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM) (AB_individual.R). This code has been used to generate Figure 6.
 
-- The R code for the pair analysis, explained in Section 2 and in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf), can be dowloaded [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM (AB_pair.R). This code has been used to generate Figure 7.
+- The R code for the pair analysis, explained in Section 2 and in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf), can be dowloaded [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM) (AB_pair.R). This code has been used to generate Figure 7.
 
 - The R code used to plot the pair distance, colored according to the pair behaviour, can be downloaded [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM) (Col_distance_AB.R). This code has been used to generate Figures 8 and 9.
 
@@ -33,7 +33,7 @@ We used the integrated development environment [RStudio](https://rstudio.com/) t
 
 ### Empirical data: African elephant GPS relocation data <br />
 
-The relocation data for the cow and the bull can be downloaded can be downloaded [here] (https://zenodo.org/record/4139757#.X5g4sXhKhsM) for both female (Cow.RData) and male (Bull.RData)
+The relocation data for the cow and the bull can be downloaded can be downloaded [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM) for both female (Cow.RData) and male (Bull.RData)
 
 ### R code for the analysis - empirical data <br />
 
