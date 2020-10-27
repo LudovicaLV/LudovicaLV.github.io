@@ -39,7 +39,7 @@ The relocation data for the female and the male can be downloaded can be downloa
 
 - The R code for the creation of the dataframe for the analysis (calculation of pair distance and different angles of interest) can be dowloaded [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM) (DataFrame.R). Run this code as first step for any of the following analysis. Otherwise, download the output [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM) (DataFrame_Pair.RData).
 
-- The R code for the individual analysis can be dowloaded [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM) for the barplots (Ind_behaviour_barplot.R) and for the statistical analysis (Ind_behaviour_stat_analysis.R). This code has been used to generate Figure 10.
+- The R code for the individual analysis can be dowloaded [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM) both for the barplots (Ind_behaviour_barplot.R) and for the statistical analysis (Ind_behaviour_stat_analysis.R). This code has been used to generate Figure 10.
 
 - The R code for the pair analysis can be dowloaded [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM) (Pair_analysis.R). This code has been used to generate Figure 11. 
 
