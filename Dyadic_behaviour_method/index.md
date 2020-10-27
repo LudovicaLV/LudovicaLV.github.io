@@ -6,7 +6,7 @@ l.luisavissat@berkeley.edu, jkblackburn@ufl.edu, wgetz@berkeley.edu
 
 ### Numerus Model Builder (NMB) models <br />
 
-To generate the data used in Section 4, we defined and run the following NMB models, explained in details in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf). 
+To generate the data used in Section 4, we defined and simulated the following NMB models, explained in details in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf). 
 
 - The distance-dependent behaviour model (Model_distance.nmb) can be downloaded [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM).
 
@@ -33,13 +33,13 @@ We used the integrated development environment [RStudio](https://rstudio.com/) t
 
 ### Empirical data: African elephant GPS relocation data <br />
 
-The relocation data for the cow and the bull can be downloaded can be downloaded [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM) for both female (Cow.RData) and male (Bull.RData)
+The relocation data for the female and the male can be downloaded can be downloaded [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM) for both female (Cow.RData) and male (Bull.RData)
 
 ### R code for the analysis - empirical data <br />
 
 - The R code for the creation of the dataframe for the analysis (calculation of pair distance and different angles of interest) can be dowloaded [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM) (DataFrame.R). Run this code as first step for any of the following analysis. Otherwise, download the output [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM) (DataFrame_Pair.RData).
 
-- The R code for the individual analysis can be dowloaded [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM) (Ind_behaviour_barplot.R) for the barplots and [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM) (Ind_behaviour_stat_analysis.R) for the statistical analysis. This code has been used to generate Figure 10.
+- The R code for the individual analysis can be dowloaded [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM) for the barplots (Ind_behaviour_barplot.R) and for the statistical analysis (Ind_behaviour_stat_analysis.R). This code has been used to generate Figure 10.
 
 - The R code for the pair analysis can be dowloaded [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM) (Pair_analysis.R). This code has been used to generate Figure 11. 
 
