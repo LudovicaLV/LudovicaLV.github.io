@@ -33,11 +33,11 @@ We used the integrated development environment [RStudio](https://rstudio.com/) t
 
 ### Empirical data: African elephant GPS relocation data <br />
 
-The relocation data for the female and the male can be downloaded can be downloaded [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM) for both female (Cow.RData) and male (Bull.RData)
+The empirical relocation data will be provided should the manuscript be accepted.
 
 ### R code for the analysis - empirical data <br />
 
-- The R code for the creation of the dataframe for the analysis (calculation of pair distance and different angles of interest) can be dowloaded [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM) (DataFrame.R). Run this code as first step for any of the following analysis. Otherwise, download the output [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM) (DataFrame_Pair.RData).
+- The R code for the creation of the dataframe for the analysis (calculation of pair distance and different angles of interest) can be dowloaded [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM) (DataFrame.R). 
 
 - The R code for the individual analysis can be dowloaded [here](https://zenodo.org/record/4139757#.X5g4sXhKhsM) both for the barplots (Ind_behaviour_barplot.R) and for the statistical analysis (Ind_behaviour_stat_analysis.R). This code has been used to generate Figure 10.
 
