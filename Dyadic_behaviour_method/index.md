@@ -1,5 +1,5 @@
 ## Supplementary material for the paper: <br />
-## A relative-motion method for parsing spatio-temporal behaviour of dyads1using GPS relocation data <br />
+## A relative-motion method for parsing spatio-temporal behaviour of dyads using GPS relocation data <br />
 
 Authors: [Ludovica Luisa Vissat](https://ourenvironment.berkeley.edu/people/ludovica-luisa-vissat), [Jason K. Blackburn](https://geog.ufl.edu/faculty/blackburn/), [Wayne M. Getz](https://ourenvironment.berkeley.edu/people/wayne-marcus-getz) <br />
 l.luisavissat@berkeley.edu, jkblackburn@ufl.edu, wgetz@berkeley.edu
