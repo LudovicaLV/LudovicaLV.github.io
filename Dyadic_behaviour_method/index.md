@@ -23,7 +23,7 @@ Visit [numerusinc.com](https://www.numerusinc.com/) to download the latest versi
 
 ### R code for the analysis - simulated data <br />
 
-- The R code for the individual analysis, explained in Section 2 and 3, can be dowloaded [here](http://doi.org/10.5281/zenodo.4676286) (AB_individual.R). This code has been used to generate Figure 5.
+- The R code for the individual analysis, explained in Section 2, can be dowloaded [here](http://doi.org/10.5281/zenodo.4676286) (AB_individual.R). This code has been used to generate Figure 5.
 
 - The R code for the pair analysis, explained in Section 2 and in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf), can be dowloaded [here](http://doi.org/10.5281/zenodo.4676286) (AB_pair.R). This code has been used to generate Figure 6.
 
