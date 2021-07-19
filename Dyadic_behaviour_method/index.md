@@ -47,4 +47,4 @@ We used the integrated development environment [RStudio](https://rstudio.com/) t
 - The R code for the extended analysis, explained in Section 2 and in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf), can be dowloaded [here](http://doi.org/10.5281/zenodo.4928382) (Extended_analysis.R). This code has been used to generate Figure 12.
 
 ### Contact
-- For any questions regarding this project, please contact Ludovica Luisa Vissat (l.luisavissat@berkeley.edu)
+- For any question regarding this project, please contact Ludovica Luisa Vissat (l.luisavissat@berkeley.edu)
