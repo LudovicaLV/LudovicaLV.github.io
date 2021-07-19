@@ -8,7 +8,7 @@ All our material is stored in a Zenodo repository that can be found [here](http:
 
 ### Numerus Model Builder (NMB) models <br />
 
-To generate the data used in Section 3, we defined and simulated the following NMB models, explained in details in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf). 
+To generate the data used in Section 3, we defined and simulated the following NMB models, explained in detail in our [SOF](https://ludovicalv.github.io/PDFs/Elep_paper.pdf). 
 
 - The distance-dependent behaviour model (Model_distance.nmb) can be downloaded [here](http://doi.org/10.5281/zenodo.4961965).
 
