@@ -4,7 +4,7 @@
 Authors: [Ludovica Luisa Vissat](https://ourenvironment.berkeley.edu/people/ludovica-luisa-vissat), [Jason K. Blackburn](https://geog.ufl.edu/faculty/blackburn/), [Wayne M. Getz](https://ourenvironment.berkeley.edu/people/wayne-marcus-getz) <br />
 l.luisavissat@berkeley.edu, jkblackburn@ufl.edu, wgetz@berkeley.edu
 
-All our material is stored in a Zenodo repository that can be found [here](http://doi.org/10.5281/zenodo.4961965).
+All our material is stored in a Zenodo repository that can be found [here](http://doi.org/10.5281/zenodo.4961965). Note that the names of the various files are provided in brackets on this webpage. 
 
 ### Numerus Model Builder (NMB) models <br />
 
@@ -34,7 +34,10 @@ We used the integrated development environment [RStudio](https://rstudio.com/) t
 
 ### R Data frames (empirical data) <br />
 
-- The data frames for each pair of interest can be downloaded [here](http://doi.org/10.5281/zenodo.4928382) (DataFrames.zip). Each data frame is named "DataFramex_y_z.RData", where x and y indicate the individual ID (see Tables 7-9 in SOF) and z the data frequency. These data frames contain the time stamps<sup>1</sup>, pair distance, locations, absolute and relative headings and their difference for each individual. These values were calculated for each time point which was at the appropriate chosen frequency with respect to its consecutive time point. In addition, we provide the data frame of the female-male pair of interest (DataFrame_Pair.RData), which contains also the calculated absolute heading difference and speed for both individuals. 
+- The data frames for each pair of interest can be downloaded [here](http://doi.org/10.5281/zenodo.4928382) (DataFrames.zip). 
+Each data frame is named "DataFramex_y_z.RData", where x and y indicate the individual ID (see Tables 7-9 in SOF) and z the data frequency. These data frames contain the time stamps<sup>1</sup>, pair distance, locations, absolute and relative headings and their difference for each individual. These values were calculated for each time point which was at the appropriate chosen frequency with respect to its consecutive time point. These data frames are the results of the calculation shown in Algorithm 1 in the main paper, before the classification step.
+
+- In addition, we provide the data frame of the female-male pair of interest (DataFrame_Pair.RData), which contains also the calculated absolute heading difference and speed for both individuals. 
 
 - The R code used for the creation of these data frames for the analysis can be dowloaded [here](http://doi.org/10.5281/zenodo.4928382) (DataFrame.R). 
 
