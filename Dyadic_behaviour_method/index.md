@@ -4,7 +4,7 @@
 Authors: [Ludovica Luisa Vissat](https://ourenvironment.berkeley.edu/people/ludovica-luisa-vissat), [Jason K. Blackburn](https://geog.ufl.edu/faculty/blackburn/), [Wayne M. Getz](https://ourenvironment.berkeley.edu/people/wayne-marcus-getz) <br />
 l.luisavissat@berkeley.edu, jkblackburn@ufl.edu, wgetz@berkeley.edu
 
-All our material is stored in a Zenodo repository that can be found [here](http://doi.org/10.5281/zenodo.4961965). Note that the names of the various files are provided in brackets on this webpage. 
+All our material is stored in a Zenodo repository that can be found [here](http://doi.org/10.5281/zenodo.4961965). Note that the description and the names of the various files are provided in brackets on this webpage. 
 
 ### Numerus Model Builder (NMB) models <br />
 
