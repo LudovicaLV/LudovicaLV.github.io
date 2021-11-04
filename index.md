@@ -20,6 +20,9 @@ Authors: Ludovica Luisa Vissat, Jane Hillston, Anna Williams
 Paper: [A relative-motion method for parsing spatio-temporal behaviour of dyads using GPS relocation data](https://ludovicalv.github.io/Dyadic_behaviour_method/)<br />
 Authors: Ludovica Luisa Vissat, Wayne M. Getz
 
+Paper: [A comparison of COVID-19 outbreaks across US Combined Statistical Areas using new methods for estimating $R_0$ and social distancing](https://ludovicalv.github.io/CSA/)<br />
+Authors: Ludovica Luisa Vissat et al.
+
 
 
 
