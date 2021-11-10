@@ -18,3 +18,7 @@ To create the heatmap reported in the paper, we shared the code (CSA_heatmap.R) 
 ### Curve flattening index: plots <br />
 
 To create the three plots reported in the paper, we shared the code for the 20-day (CSA_plots_20_day.R) and 30-day length (CSA_plots_30_day.R).
+
+### SOF1: additional clustering analysis <br />
+
+To explore the additional clustering analysis, we provide the code for the heatmaps for the 4 area features and R_0 (CSA_heatmap_area4days_R0.R) and for the total area and R_0 (CSA_heatmap_area_R0.R). In addition, we provide the code for the silhouette analysis (CSA_silhouette.R) and for the scatter plots (Plot_clusters_points.R).
