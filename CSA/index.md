@@ -1,5 +1,5 @@
 
-## A comparison of COVID-19 outbreaks across US Combined Statistical Areas using new methods for estimating $R_0$ and social distancing <br />
+## A comparison of COVID-19 outbreaks across US Combined Statistical Areas using new methods for estimating R_0 and social distancing <br />
 
 R code and data for this paper can be found at this [repository](https://github.com/LudovicaLV/CSA_paper.git). The description of the files is the following:
 
