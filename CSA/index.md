@@ -5,7 +5,7 @@ R code and data for this paper can be found at this [repository](https://github.
 
 ### Day 0 <br />
 
-We provide the R code to extract the day 0 of the exponential phase (CSA_day_0.R), by considering the first several weeks for which the 7-day lagged moving average was above 0 (CSA_av_above_0.R). We also provide the data folder for running this code (Data_CSA.zip).
+We provide the R code to extract the day 0 of the exponential phase (CSA_day_0.R), by considering the first several weeks for which the 7-day lagged moving average was above 0 (CSA_av_above_0.R). We also provide the data folder for running this code (Data_CSA.zip), (data downloaded from https://usafacts.org/).
 
 ### R_0 <br />
 
